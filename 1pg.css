@@ -1,0 +1,39 @@
+body{
+    background-image: url(Screenshot_20250324-133309.png);
+    background-repeat: no-repeat;
+    background-position: 20%;
+    background-size: cover;
+    height: 850px;
+
+}
+
+a{
+    width: 100%;
+
+    margin-left: 88%;
+    margin-right: 0%;
+    font-size: 24px;
+    border-radius: 150px;
+    font-family: "Bytesized", sans-serif;
+    color: orangered;
+    background-color: aliceblue;
+
+}
+
+h1{
+    font-size: 22px;
+    font-family: "Boldonse", system-ui;
+    color: rgb(233, 94, 30);
+    text-shadow: 10px rgb(0, 0, g);
+}
+h2{
+    margin-left: 6px;
+    font-size: 20px;
+    text-align: left;
+    background-color: white;
+    width: 351px;
+    height: 18%;
+    border-radius: 12px;
+    background-position: center;
+    
+}

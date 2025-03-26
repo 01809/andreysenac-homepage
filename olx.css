@@ -1,0 +1,85 @@
+
+
+
+.textcontainer{
+    font-stretch: condensed;
+}
+
+.letter1{
+    text-align: center;
+    align-items: center;
+    font-stretch: condensed;
+    width: 20px;
+    height: 50%;
+    font-family: "Bytesized", sans-serif;
+    color: 
+    rgb(243, 161, 9);
+    border-radius: 1px;
+    text-shadow: 0px 7px 0px rgba(0, 0, 0, 0.6);
+}
+
+.letter2{
+    animation: forwards 2s ease-in-out ;
+    text-align: center;
+    align-items: center;
+    font-stretch: condensed;
+    width: 20px;
+    text-align: center;
+    width: 15px;
+    color: rgb(28, 197, 28);
+    text-shadow: 0px px px rgba(0, 0, 0, 0.6);
+}
+
+.letter3{
+    text-align: center;
+    align-items: center;
+    font-stretch: condensed;
+    width: 33px;
+    color: purple;
+    text-shadow: 0px 4px 0px rgba(0, 0, 0, 0.6);
+}
+
+h1{
+    text-shadow: 0px 5px 1px rgba(0, 0, 0, 0.6);
+    animation: fadeInShadow 1.5s ease-in-out forwards;
+    margin-left: 50%;
+}
+
+@keyframes feDropShadow{
+    from{
+        text-shadow: 0px 0px 0px rgba(0, 0, 0, 0);
+    }
+    to{
+        text-shadow: 4px 4px 10px rgba(0, 0, 0, 0.7);
+    }
+}
+
+a{
+   
+    width: 100%;
+    text-decoration-color: black;
+    color: rgb(226, 76, 17);
+    font-weight: 400;
+    font-size: 25px;
+    margin-left: 50%;
+    font-family: "Bytesized", sans-serif;
+    animation: fadeInRight;
+  font-weight: 400;
+
+    
+    border-radius: 10px;
+    text-decoration: none;
+   
+    margin-right: 15%;
+    border: 2px;
+}
+
+table{
+    margin-left: 42%;
+    border-radius: 10px;
+    color: aqua;
+}
+
+
+
+

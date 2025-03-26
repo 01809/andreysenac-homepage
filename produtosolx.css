@@ -1,0 +1,40 @@
+*body{
+    background-image: url(Screenshot_20250324-133247\ \(1\).png);
+    background-repeat: no-repeat;
+    background-position: 20%;
+    background-size: cover;
+    height: 590px;
+
+}
+
+
+h4{
+   
+    width: 700px;
+    
+    border-radius: 40px;}
+
+h1{
+    font-family: "Boldonse", system-ui;
+}
+
+a{
+    width: 100%;
+
+    margin-left: 88%;
+    margin-right: 2;
+    font-size: 19px;
+    border-radius: 150px;
+    font-family: "Bytesized", sans-serif;
+    color: gray;
+    background-color: aliceblue;
+
+}
+body{
+    background-image: url;
+    background-repeat: no-repeat;
+    background-position: 20%;
+    background-size: cover;
+  
+
+}
